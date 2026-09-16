@@ -5,7 +5,7 @@
 
 A lightweight, client-side URL scanner built with React. It analyzes links for common phishing patterns and malicious structures directly in the browser—no backend APIs required.
 
-**Live Demo:** [(https://url-analyzer-phishing-detector.vercel.app/)](https://url-analyzer-phishing-detector.vercel.app/)
+**Live Demo:** [https://url-analyzer-phishing-detector.vercel.app/]
 
 ## How It Works
 I wanted to build a fast validation engine that respects user privacy. Instead of sending the URL to a server, the app parses the input locally and runs it through a custom scoring logic to determine the threat level (Safe, Warning, or Critical). 
